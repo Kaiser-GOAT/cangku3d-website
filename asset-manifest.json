@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/cangku3d-website/static/css/main.63d86e03.css",
+    "main.js": "/cangku3d-website/static/js/main.02de1e4d.js",
+    "static/media/shuini.png": "/cangku3d-website/static/media/shuini.629bc181edf8dedf90a1.png",
+    "static/media/taoci.png": "/cangku3d-website/static/media/taoci.420c587c84915a414dc9.png",
+    "static/media/wood.jpg": "/cangku3d-website/static/media/wood.b0f22152da00e728ac9c.jpg",
+    "static/media/rain.png": "/cangku3d-website/static/media/rain.f213f2da48ebf65259a8.png",
+    "static/media/index.less": "/cangku3d-website/static/media/index.512735b3dccd7d4b3088.less",
+    "index.html": "/cangku3d-website/index.html",
+    "static/media/default.less": "/cangku3d-website/static/media/default.003f90b383291c3b90da.less",
+    "main.63d86e03.css.map": "/cangku3d-website/static/css/main.63d86e03.css.map",
+    "main.02de1e4d.js.map": "/cangku3d-website/static/js/main.02de1e4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63d86e03.css",
+    "static/js/main.02de1e4d.js"
+  ]
+}
